@@ -8,7 +8,9 @@
 
 - Determinar resistencias totales en circuitos con varios reistores y varias fuentes tanto de corriete como voltaje, mediante el analisis de circuitos esquematicos.
 
-- Identificar el metodo de resolucion del dircuito basandose en la posicion de resistencias y fuentes, ademas de la carga en la cuel se quiere aplicar el teorema de Thevenin con el fin de agilizar la comprensión de circuitos.
+- Identificar el método de resolucion del circuito basandose en la posicion de resistencias y fuentes, ademas de la carga en la cual se quiere aplicar el teorema de Thevenin con el fin de agilizar la comprensión de circuitos.
+
+- Reforzar conocimientos previos de analisis de circuitos con los diferentes metodos ya aprendidos para comprobar la utilidad del teorema de Thevenin.
 
 ## 2. MARCO TEORICO
 
@@ -97,11 +99,14 @@
 
 ## 5. VIDEO
 
-Link:
+Link: https://youtu.be/6jtcoVlfDi4
 
 ## 6. CONCLUSIONES
 
 - A lo largo del presente informe el teorema de Thévenin establece que un circuito lineal de dos terminales puede remplazarse por un circuito equivalente que consta de una fuente de tensión VTH  en serie con un resistor RTH, donde VTH es la tensión de circuito abierto en las terminales y RTH es la entrada o resistencia equivalente en las terminales cuando las fuentes independientes se apagan
+
+- Con  el teorema de thevenin, se pueden reducir circuitos demasiado complejos, para el análisis de magnitudes, teniendo en cuenta cual es el circuito original reducido y la resistencia o componente que se va a analizar, además de la misma, debe quedar abierta en el circuito, similar a las fuentes de corriente en el teorema de superposición, y la fuente de voltaje tomándola en los extremos de la resistencia retirada.
+
 
 ## 7. BIBLIOGRAFIA
 
