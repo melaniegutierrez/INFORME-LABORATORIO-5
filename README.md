@@ -22,30 +22,29 @@
 
 **Circuito**
 
-
+![](https://github.com/melaniegutierrez/CAP-LAB-5/blob/main/s1.png)
 
 **Corriente y Voltaje de R5**
 
-
+![](https://github.com/melaniegutierrez/CAP-LAB-5/blob/main/s2.png)
 
 **Resistencia de Thevenin**
 
-
+![](https://github.com/melaniegutierrez/CAP-LAB-5/blob/main/s3.png)
 
 **Voltaje de Thevenin**
 
-
+![](https://github.com/melaniegutierrez/CAP-LAB-5/blob/main/s4.png)
 
 **Comparacion del circuito Original con el de Thevenin**
 
-
+![](https://github.com/melaniegutierrez/CAP-LAB-5/blob/main/s5.png)
 
 ### CALCULOS TEORICOS
 
 **Esquema del Circuito**
 
-
-
+![](https://github.com/melaniegutierrez/CAP-LAB-5/blob/main/s6.png)
 
 **Corriente y Voltaje de R5**
 
@@ -53,33 +52,31 @@
 
 **Resistencia de Thevenin**
 
+![](https://github.com/melaniegutierrez/CAP-LAB-5/blob/main/s7.png)
 
-
-
+![](https://github.com/melaniegutierrez/CAP-LAB-5/blob/main/s8.png)
 
 **Voltaje de thevenin**
 
+![](https://github.com/melaniegutierrez/CAP-LAB-5/blob/main/s9.png)
 
+![](https://github.com/melaniegutierrez/CAP-LAB-5/blob/main/s10.png)
 
-
-
-
+![](https://github.com/melaniegutierrez/CAP-LAB-5/blob/main/s11.png)
 
 **Comprobacion de Teorema de Thevenin**
 
-
+![](https://github.com/melaniegutierrez/CAP-LAB-5/blob/main/s12.png)
 
 ## 4. RESPUESTAS A INTERROGANTES Y CALCULO DE ERROR
 
 **CALCULO DE ERROR**
 
+![](https://github.com/melaniegutierrez/CAP-LAB-5/blob/main/s13.png)
 
+![](https://github.com/melaniegutierrez/CAP-LAB-5/blob/main/s14.png)
 
-
-
-
-
-
+![](https://github.com/melaniegutierrez/CAP-LAB-5/blob/main/s15.png)
 
 **Tabla 5.1. Valores del Circuito Equivalente de Thévenin**
 
