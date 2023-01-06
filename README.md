@@ -48,7 +48,9 @@
 
 **Corriente y Voltaje de R5**
 
+![](https://github.com/melaniegutierrez/CAP-LAB-5/blob/main/s16.png)
 
+![](https://github.com/melaniegutierrez/CAP-LAB-5/blob/main/s17.png)
 
 **Resistencia de Thevenin**
 
